@@ -10,4 +10,8 @@ changes to the third file
 
 dvuywefichyvrbciurbfiufbrduilbruilrb
 
+<<<<<<< HEAD
 changes made in local file
+=======
+changes made in github
+>>>>>>> 868493d09eeb9c7b7704b10b0319b17a1b9510fa
