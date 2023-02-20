@@ -1,4 +1,8 @@
 this my first file in git
 some changes ar emade into it
 
+<<<<<<< HEAD
 fvvvdesherbfkjerb
+=======
+rdddddddddddddddddddd
+>>>>>>> Testing2

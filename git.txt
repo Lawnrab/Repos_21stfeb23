@@ -1,0 +1,9 @@
+git branch <BRANCH NAME> - to create a branch
+git branch - to list branches
+git checkout <BN> - to go to work on a specific branch
+git status- to see it any modifications are done
+git add . - to add any modifications done in any file
+git log --oneline - to see DEATILS of all commits done till now in that branch
+git commit -m"___" =to record a modification/commit done to any file and give it  a name.
+git log = to see all commits done till now in that branch
+git merge <BN1> <BN2> = merge two branches
