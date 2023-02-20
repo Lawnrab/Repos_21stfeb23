@@ -1,0 +1,2 @@
+this my first file in git
+some changes ar emade into it
