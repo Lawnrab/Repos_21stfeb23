@@ -6,3 +6,5 @@ again checking the diff command now too see difference in file in the working tr
 
 added new line to see the stack command 
 aslo deleted 2nd line
+
+more changes
