@@ -1,3 +1,5 @@
 this is my second file
 
 made change sto second file
+
+again checking the diff command now too see difference in file in the working tree
