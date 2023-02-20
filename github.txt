@@ -1,0 +1,5 @@
+1. copy url of repos
+2. command: git remote add origin <URL>
+3. git remote show origin--details of this origin
+
+this is informing local repository, where it should connect whenever commands like push is given.
